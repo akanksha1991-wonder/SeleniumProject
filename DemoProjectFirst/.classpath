@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/rest-assured-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/json-path-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/json-path-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/rest-assured-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/rest-assured-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/rest-assured-common-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/rest-assured-common-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/xml-path-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/rest-assured-4.3.2-dist/docs/xml-path-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-path-4.3.2-dist/json-path-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-path-4.3.2-dist/docs/json-path-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-path-4.3.2-dist/docs/json-path-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-path-4.3.2-dist/docs/rest-assured-common-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-path-4.3.2-dist/docs/rest-assured-common-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-schema-validator-4.3.2-dist/json-schema-validator-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-schema-validator-4.3.2-dist/docs/json-schema-validator-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/json-schema-validator-4.3.2-dist/docs/json-schema-validator-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/kotlin-extensions-4.3.2-dist/kotlin-extensions-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/scala-support-4.3.2-dist/scala-support-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/spring-mock-mvc-4.3.2-dist/spring-mock-mvc-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/spring-web-test-client-4.3.2-dist/spring-web-test-client-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/xml-path-4.3.2-dist/xml-path-4.3.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/xml-path-4.3.2-dist/docs/rest-assured-common-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/xml-path-4.3.2-dist/docs/rest-assured-common-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/xml-path-4.3.2-dist/docs/xml-path-4.3.2-javadoc.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/apple/Desktop/xml-path-4.3.2-dist/docs/xml-path-4.3.2-sources.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
